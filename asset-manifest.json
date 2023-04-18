@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/buddha_statue/static/css/main.ae49d132.css",
+    "main.js": "/buddha_statue/static/js/main.dc6fc5c8.js",
+    "static/js/787.7afa1c32.chunk.js": "/buddha_statue/static/js/787.7afa1c32.chunk.js",
+    "static/media/background.jpeg": "/buddha_statue/static/media/background.a7b86f2d174a48189490.jpeg",
+    "static/media/logo.png": "/buddha_statue/static/media/logo.ecab83371b1b9bda03e3.png",
+    "index.html": "/buddha_statue/index.html",
+    "main.ae49d132.css.map": "/buddha_statue/static/css/main.ae49d132.css.map",
+    "main.dc6fc5c8.js.map": "/buddha_statue/static/js/main.dc6fc5c8.js.map",
+    "787.7afa1c32.chunk.js.map": "/buddha_statue/static/js/787.7afa1c32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae49d132.css",
+    "static/js/main.dc6fc5c8.js"
+  ]
+}
